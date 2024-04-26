@@ -1,2 +1,0 @@
-# HealthEase
-Health Website
